@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(236, 227, 227);
+    overflow:hidden;
+}
+div{
+    background-color:rgb(250, 243, 243);
+    border: 330px;
+    border-radius:1px;
+    margin:auto;
+    height:300px ;
+    width: 330px;
+    text-align:center;
+}
+img{
+    height: 80px;
+}
+input{
+    width:240px;
+    height:25px ;
+    margin:4px ;
+    
+}
+button{
+    margin:18px ;
+    border-sytle:none;
+    border-radius: 3px;
+    width:248px;
+    height:28px ;
+    overflow: hidden;
+   
+}
+a{
+    text-align:center;
+}
+.sign{
+       height:50px ; }
